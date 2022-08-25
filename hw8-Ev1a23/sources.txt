@@ -1,0 +1,9 @@
+./src/il/ac/tau/cs/sw1/ex8/TesterUtils.java
+./src/il/ac/tau/cs/sw1/ex8/histogram/IHistogram.java
+./src/il/ac/tau/cs/sw1/ex8/histogram/HashMapHistogramIterator.java
+./src/il/ac/tau/cs/sw1/ex8/histogram/HashMapHistogram.java
+./src/il/ac/tau/cs/sw1/ex8/histogram/HashMapHistogramTester.java
+./src/il/ac/tau/cs/sw1/ex8/tfIdf/FileUtils.java
+./src/il/ac/tau/cs/sw1/ex8/tfIdf/FileIndexException.java
+./src/il/ac/tau/cs/sw1/ex8/tfIdf/FileIndex.java
+./src/il/ac/tau/cs/sw1/ex8/tfIdf/FileIndexTester.java
